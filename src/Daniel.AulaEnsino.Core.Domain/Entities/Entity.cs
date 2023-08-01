@@ -1,0 +1,17 @@
+﻿namespace Daniel.AulaEnsino.Core.Domain.Entities
+{
+    public abstract class Entity
+    {
+        public int Codigo { get; set; }
+
+        public string Nome { get; set; }
+
+        public DateTime DataCadastro { get; set; }
+
+        public DateTime? DataAlteracao { get; set; }
+
+        public DateTime? DataExclusao { get; set; }
+
+        public bool Status { get; set; }
+    }
+}

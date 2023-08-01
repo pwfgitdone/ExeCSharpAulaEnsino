@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xviIsWcSsMYldT4BtpJc+6JhY8X2oyYgFb+wNmzvwmc9OqAlKo3uuOJ5/GvFAZ3IbCF04w8WIzpT0Kaw+lT+Nw==",
+  "dgSpecHash": "OyYG/LKeFCOyAD4SqHRog83+GCTreBzFz31pS2h1Yai5/ZSzh6+tWX6Zs3wQeI+d2cZ21IMDl4oZUD5dFDFJog==",
   "success": true,
   "projectFilePath": "C:\\Users\\Samsung\\source\\repos\\Daniel.AulaEnsino.Core\\Daniel.AulaEnsino.Core.Domain\\Daniel.AulaEnsino.Core.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
-    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
-    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
