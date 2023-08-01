@@ -15,4 +15,8 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="7.0.9" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Daniel.AulaEnsino.Core.Domain\Daniel.AulaEnsino.Core.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
