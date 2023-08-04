@@ -1,0 +1,12 @@
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Common.Utilities\bin\Debug\net6.0\Daniel.AulaEnsino.Common.Utilities.deps.json
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Common.Utilities\bin\Debug\net6.0\Daniel.AulaEnsino.Common.Utilities.dll
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Common.Utilities\bin\Debug\net6.0\Daniel.AulaEnsino.Common.Utilities.pdb
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Common.Utilities\obj\Debug\net6.0\Daniel.AulaEnsino.Common.Utilities.csproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Common.Utilities\obj\Debug\net6.0\Daniel.AulaEnsino.Common.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Common.Utilities\obj\Debug\net6.0\Daniel.AulaEnsino.Common.Utilities.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Common.Utilities\obj\Debug\net6.0\Daniel.AulaEnsino.Common.Utilities.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Common.Utilities\obj\Debug\net6.0\Daniel.AulaEnsino.Common.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Common.Utilities\obj\Debug\net6.0\Daniel.AulaEnsino.Common.Utilities.dll
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Common.Utilities\obj\Debug\net6.0\refint\Daniel.AulaEnsino.Common.Utilities.dll
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Common.Utilities\obj\Debug\net6.0\Daniel.AulaEnsino.Common.Utilities.pdb
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Common.Utilities\obj\Debug\net6.0\ref\Daniel.AulaEnsino.Common.Utilities.dll

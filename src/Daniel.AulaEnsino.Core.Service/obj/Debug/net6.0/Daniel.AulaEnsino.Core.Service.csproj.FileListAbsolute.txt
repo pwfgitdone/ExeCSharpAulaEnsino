@@ -1,0 +1,12 @@
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Service\bin\Debug\net6.0\Daniel.AulaEnsino.Core.Service.deps.json
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Service\bin\Debug\net6.0\Daniel.AulaEnsino.Core.Service.dll
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Service\bin\Debug\net6.0\Daniel.AulaEnsino.Core.Service.pdb
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Service\obj\Debug\net6.0\Daniel.AulaEnsino.Core.Service.csproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Service\obj\Debug\net6.0\Daniel.AulaEnsino.Core.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Service\obj\Debug\net6.0\Daniel.AulaEnsino.Core.Service.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Service\obj\Debug\net6.0\Daniel.AulaEnsino.Core.Service.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Service\obj\Debug\net6.0\Daniel.AulaEnsino.Core.Service.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Service\obj\Debug\net6.0\Daniel.AulaEnsino.Core.Service.dll
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Service\obj\Debug\net6.0\refint\Daniel.AulaEnsino.Core.Service.dll
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Service\obj\Debug\net6.0\Daniel.AulaEnsino.Core.Service.pdb
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Service\obj\Debug\net6.0\ref\Daniel.AulaEnsino.Core.Service.dll

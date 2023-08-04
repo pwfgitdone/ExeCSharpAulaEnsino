@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Daniel.AulaEnsino.Core.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace Daniel.AulaEnsino.Core.Data.Context
 {

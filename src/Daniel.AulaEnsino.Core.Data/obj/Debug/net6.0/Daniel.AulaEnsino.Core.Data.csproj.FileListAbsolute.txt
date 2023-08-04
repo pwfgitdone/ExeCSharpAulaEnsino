@@ -1,0 +1,17 @@
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\bin\Debug\net6.0\Daniel.AulaEnsino.Core.Data.deps.json
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\bin\Debug\net6.0\Daniel.AulaEnsino.Core.Data.runtimeconfig.json
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\bin\Debug\net6.0\Daniel.AulaEnsino.Core.Data.dll
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\bin\Debug\net6.0\Daniel.AulaEnsino.Core.Data.pdb
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\bin\Debug\net6.0\Daniel.AulaEnsino.Core.Domain.dll
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\bin\Debug\net6.0\Daniel.AulaEnsino.Core.Domain.pdb
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\obj\Debug\net6.0\Daniel.AulaEnsino.Core.Data.csproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\obj\Debug\net6.0\Daniel.AulaEnsino.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\obj\Debug\net6.0\Daniel.AulaEnsino.Core.Data.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\obj\Debug\net6.0\Daniel.AulaEnsino.Core.Data.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\obj\Debug\net6.0\Daniel.AulaEnsino.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\obj\Debug\net6.0\Daniel.AulaEnsino.Core.Data.csproj.CopyComplete
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\obj\Debug\net6.0\Daniel.AulaEnsino.Core.Data.dll
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\obj\Debug\net6.0\refint\Daniel.AulaEnsino.Core.Data.dll
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\obj\Debug\net6.0\Daniel.AulaEnsino.Core.Data.pdb
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\obj\Debug\net6.0\Daniel.AulaEnsino.Core.Data.genruntimeconfig.cache
+C:\Users\Samsung\source\repos\Daniel.AulaEnsino.Core\src\Daniel.AulaEnsino.Core.Data\obj\Debug\net6.0\ref\Daniel.AulaEnsino.Core.Data.dll

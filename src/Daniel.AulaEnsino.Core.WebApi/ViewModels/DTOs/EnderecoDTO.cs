@@ -1,0 +1,25 @@
+﻿namespace Daniel.AulaEnsino.Core.WebApi.ViewModels.DTOs
+{
+    public class EnderecoDTO
+    {
+        public int? Codigo { get; set; }
+
+        public string Logradouro { get; set; }
+
+        public string Numero { get; set; }
+
+        public string Complemento { get; set; }
+
+        public string Bairro { get; set; }
+
+        public string Cep { get; set; }
+
+        public string Cidade { get; set; }
+
+        public string Estado { get; set; }
+
+        public int? CodigoCliente { get; set; }
+
+        public virtual ClienteDTO Cliente { get; set; }
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Daniel.AulaEnsino.Core.Service/1.0.0": {
+        "runtime": {
+          "Daniel.AulaEnsino.Core.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Daniel.AulaEnsino.Core.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
